@@ -1,1 +1,2 @@
 tämä on tekstifile
+ja uusi rivi
